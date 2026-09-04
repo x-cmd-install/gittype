@@ -7,7 +7,7 @@ about:
   head: 10a203c
   archived: false
   latestVersion: v0.10.2
-  collectedAt: 2026-09-04T19:53:17Z
+  collectedAt: 2026-09-04T20:47:08Z
 timeline:
   created: 2025-08-28
   lastCommit: 2026-09-03
@@ -83,5 +83,58 @@ total:
   openIssue: 15
   commit: 1499
 ---
+path: /home/runner/.x-repo/github.com/unhappychoice/gittype
+collectedAt: 2026-09-04T20:47:12Z
+loc:
+  Rust:
+    code: 79997
+    comments: 2543
+    blanks: 10804
+    files: 617
+  Json:
+    code: 894
+    comments: 0
+    blanks: 0
+    files: 18
+  Sh:
+    code: 320
+    comments: 52
+    blanks: 71
+    files: 3
+  Toml:
+    code: 106
+    comments: 0
+    blanks: 10
+    files: 2
+  Nix:
+    code: 78
+    comments: 0
+    blanks: 5
+    files: 1
+  Yaml:
+    code: 19
+    comments: 0
+    blanks: 2
+    files: 1
+  Handlebars:
+    code: 15
+    comments: 0
+    blanks: 4
+    files: 1
+  Svg:
+    code: 8
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 2480
+    blanks: 614
+    files: 14
+total:
+  code: 81771
+  comments: 5656
+  blanks: 11610
+  files: 658
 ---
 
