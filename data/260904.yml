@@ -1,0 +1,59 @@
+about:
+  description: A CLI code-typing game that turns your source code into typing challenges
+  license: MIT
+  homepage: 
+  head: 10a203c
+  archived: false
+  latestVersion: v0.10.2
+  collectedAt: 2026-09-04T04:57:50Z
+timeline:
+  created: 2025-08-28
+  lastCommit: 2026-09-03
+  lastRelease: 2026-08-05
+popularity:
+  star: 1586
+  watcher: 3
+  fork: 43
+  release: 18
+  contributor: 8
+  pullRequest: 8
+  issue: 129
+language:
+  Rust: 2903724
+  Shell: 12397
+  Nix: 2660
+  Handlebars: 463
+totalLine: 2919244
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 1
+    mergedPR: 16
+    openPR: 1
+    closedIssue: 0
+    openIssue: 1
+    commit: 15
+  last90d:
+    since: 2026-06-06
+    release: 2
+    mergedPR: 48
+    openPR: 1
+    closedIssue: 0
+    openIssue: 1
+    commit: 52
+  last180d:
+    since: 2026-03-08
+    release: 3
+    mergedPR: 100
+    openPR: 1
+    closedIssue: 2
+    openIssue: 3
+    commit: 339
+  last360d:
+    since: 2025-09-09
+    release: 9
+    mergedPR: 234
+    openPR: 1
+    closedIssue: 34
+    openIssue: 8
+    commit: 747
