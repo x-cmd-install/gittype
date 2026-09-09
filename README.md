@@ -5,7 +5,7 @@ A CLI code-typing game that turns your source code into typing challenges
 - **Upstream**: <https://github.com/unhappychoice/gittype>
 - **Homepage**: <>
 - **Latest release**: `v0.10.2` (2026-08-05)
-- **Last commit**: 2026-09-07
+- **Last commit**: 2026-09-09
 - **License**: MIT
 - **Stars**: 1593 · **Forks**: 44 · **Open issues**: 129 · **Contributors**: 8
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/gittype> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T06:20:59Z._
+_Last regenerated: 2026-09-09T20:42:27Z._
