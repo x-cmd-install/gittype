@@ -37,7 +37,7 @@ Total: **81,437** lines of code across **641** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,595 · **Forks**: 44 · **Open issues**: 129 · **Contributors**: 8
+- **Stars**: 1,597 · **Forks**: 44 · **Open issues**: 129 · **Contributors**: 8
 
 ## Totals (cumulative)
 
@@ -82,4 +82,4 @@ Install metadata for gittype lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T06:26:46Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T18:23:37Z._
