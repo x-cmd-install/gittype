@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 9753233,
       "digest": "sha256:e37c19ab8bc10e26c365973ab4b6931fc60a2db1665a8cda346b5a75963f3162",
-      "download_count": 171,
+      "download_count": 174,
       "created_at": "2026-08-05T11:58:30Z",
       "updated_at": "2026-08-05T11:58:31Z",
       "browser_download_url": "https://github.com/unhappychoice/gittype/releases/download/v0.10.2/gittype-v0.10.2-x86_64-pc-windows-msvc.zip"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 10573357,
       "digest": "sha256:76d3b9b56554d5aab102cb98adb77f71faaa33b3d469ead585c8ccec37dc6539",
-      "download_count": 135,
+      "download_count": 138,
       "created_at": "2026-08-05T11:56:46Z",
       "updated_at": "2026-08-05T11:56:47Z",
       "browser_download_url": "https://github.com/unhappychoice/gittype/releases/download/v0.10.2/gittype-v0.10.2-x86_64-unknown-linux-gnu.tar.gz"

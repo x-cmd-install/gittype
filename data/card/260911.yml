@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.10.2"
   latestRelease: "v0.10.2"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T06:26:24Z
+  collectedAt: 2026-09-11T18:23:10Z
 timeline:
   created: 2025-08-28
   lastCommit: 2026-09-09
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-08-05
   lastPrerelease: 
 popularity:
-  star: 1595
+  star: 1597
   watcher: 3
   fork: 44
   release: 18
@@ -86,7 +86,7 @@ total:
   commit: 1503
 ---
 path: /home/runner/.x-repo/github.com/unhappychoice/gittype
-collectedAt: 2026-09-11T06:26:38Z
+collectedAt: 2026-09-11T18:23:24Z
 loc:
   Rust:
     code: 79997
