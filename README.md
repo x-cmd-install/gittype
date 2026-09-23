@@ -4,7 +4,7 @@
 
 A CLI code-typing game that turns your source code into typing challenges
 
-[![x-cmd/install — gittype Code Quality Monitoring Repo Card](https://repo.x-cmd.io/gittype.svg)](https://x-cmd.com/install/gittype)
+[![x-cmd/install — gittype Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/gittype.svg)](https://x-cmd.com/install/gittype)
 
 ## Install
 
@@ -37,7 +37,7 @@ Total: **81,437** lines of code across **641** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,605 · **Forks**: 45 · **Open issues**: 129 · **Contributors**: 8
+- **Stars**: 1,607 · **Forks**: 45 · **Open issues**: 129 · **Contributors**: 8
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **81,437** lines of code across **641** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 12 | 1 | 0 | 1 | 10 |
-| last60d | 2026-07-24 | 2 | 26 | 1 | 0 | 1 | 28 |
-| 90d | 2026-06-24 | 2 | 49 | 1 | 0 | 1 | 50 |
-| last180d | 2026-03-26 | 3 | 97 | 1 | 1 | 3 | 331 |
-| 360d | 2025-09-27 | 4 | 196 | 1 | 25 | 6 | 574 |
-| last720d | 2024-10-02 | 18 | 364 | 1 | 114 | 15 | 1511 |
+| 30d | 2026-08-24 | 0 | 12 | 1 | 0 | 1 | 10 |
+| last60d | 2026-07-25 | 2 | 26 | 1 | 0 | 1 | 28 |
+| 90d | 2026-06-25 | 2 | 47 | 1 | 0 | 1 | 50 |
+| last180d | 2026-03-27 | 3 | 95 | 1 | 1 | 3 | 331 |
+| 360d | 2025-09-28 | 4 | 196 | 1 | 25 | 6 | 574 |
+| last720d | 2024-10-03 | 18 | 364 | 1 | 114 | 15 | 1511 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for gittype lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:40:23Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:47:11Z._

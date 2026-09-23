@@ -4,7 +4,7 @@
 
 A CLI code-typing game that turns your source code into typing challenges
 
-[![x-cmd/install — gittype Code Quality Monitoring Repo Card](https://repo.x-cmd.io/gittype.svg?lang=zh)](https://x-cmd.com/install/gittype)
+[![x-cmd/install — gittype Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/gittype.svg?lang=zh)](https://x-cmd.com/install/gittype)
 
 ## 安装
 
@@ -37,7 +37,7 @@ x install gittype
 
 ## 流行度
 
-- **Star**: 1,605 · **Fork**: 45 · **开放 issue**: 129 · **贡献者**: 8
+- **Star**: 1,607 · **Fork**: 45 · **开放 issue**: 129 · **贡献者**: 8
 
 ## 累计统计
 
@@ -47,12 +47,12 @@ x install gittype
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 12 | 1 | 0 | 1 | 10 |
-| last60d | 2026-07-24 | 2 | 26 | 1 | 0 | 1 | 28 |
-| 90d | 2026-06-24 | 2 | 49 | 1 | 0 | 1 | 50 |
-| last180d | 2026-03-26 | 3 | 97 | 1 | 1 | 3 | 331 |
-| 360d | 2025-09-27 | 4 | 196 | 1 | 25 | 6 | 574 |
-| last720d | 2024-10-02 | 18 | 364 | 1 | 114 | 15 | 1511 |
+| 30d | 2026-08-24 | 0 | 12 | 1 | 0 | 1 | 10 |
+| last60d | 2026-07-25 | 2 | 26 | 1 | 0 | 1 | 28 |
+| 90d | 2026-06-25 | 2 | 47 | 1 | 0 | 1 | 50 |
+| last180d | 2026-03-27 | 3 | 95 | 1 | 1 | 3 | 331 |
+| 360d | 2025-09-28 | 4 | 196 | 1 | 25 | 6 | 574 |
+| last720d | 2024-10-03 | 18 | 364 | 1 | 114 | 15 | 1511 |
 
 ## Release 资产
 
@@ -73,4 +73,4 @@ gittype 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T06:40:23Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T06:47:12Z._
