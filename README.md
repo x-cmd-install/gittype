@@ -32,27 +32,27 @@ Total: **81,437** lines of code across **641** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.10.2` (2026-08-05)
-- **Last commit**: 2026-09-23
+- **Last commit**: 2026-09-29
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 1,613 · **Forks**: 45 · **Open issues**: 129 · **Contributors**: 8
+- **Stars**: 1,615 · **Forks**: 45 · **Open issues**: 129 · **Contributors**: 8
 
 ## Totals (cumulative)
 
-- **Releases**: 18 · **Merged PRs**: 365 · **Open PRs**: 1 · **Closed issues**: 114 · **Open issues**: 15 · **Commits**: 1513
+- **Releases**: 18 · **Merged PRs**: 366 · **Open PRs**: 1 · **Closed issues**: 114 · **Open issues**: 15 · **Commits**: 1515
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 0 | 10 | 0 | 0 | 0 | 7 |
-| last60d | 2026-07-30 | 1 | 26 | 1 | 0 | 1 | 26 |
-| 90d | 2026-06-30 | 2 | 46 | 1 | 0 | 1 | 48 |
-| last180d | 2026-04-01 | 3 | 93 | 1 | 1 | 3 | 331 |
-| 360d | 2025-10-03 | 4 | 193 | 1 | 22 | 6 | 541 |
-| last720d | 2024-10-08 | 18 | 365 | 1 | 114 | 15 | 1513 |
+| 30d | 2026-08-30 | 0 | 11 | 0 | 0 | 0 | 8 |
+| last60d | 2026-07-31 | 1 | 27 | 1 | 0 | 1 | 27 |
+| 90d | 2026-07-01 | 2 | 46 | 1 | 0 | 1 | 49 |
+| last180d | 2026-04-02 | 3 | 94 | 1 | 1 | 3 | 332 |
+| 360d | 2025-10-04 | 4 | 194 | 1 | 22 | 6 | 542 |
+| last720d | 2024-10-09 | 18 | 366 | 1 | 114 | 15 | 1515 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for gittype lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T06:52:35Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T07:07:16Z._
