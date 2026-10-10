@@ -31,8 +31,8 @@ Total: **81,437** lines of code across **641** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.10.2` (2026-08-05)
-- **Last commit**: 2026-10-07
+- **Latest**: `v0.10.3` (2026-10-10)
+- **Last commit**: 2026-10-10
 - **Assets in release**: 5
 
 ## Popularity
@@ -41,28 +41,28 @@ Total: **81,437** lines of code across **641** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 18 · **Merged PRs**: 371 · **Open PRs**: 1 · **Closed issues**: 114 · **Open issues**: 15 · **Commits**: 1526
+- **Releases**: 19 · **Merged PRs**: 371 · **Open PRs**: 1 · **Closed issues**: 114 · **Open issues**: 15 · **Commits**: 1528
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-09 | 0 | 11 | 0 | 0 | 0 | 11 |
-| last60d | 2026-08-10 | 0 | 25 | 1 | 0 | 1 | 21 |
-| 90d | 2026-07-11 | 2 | 48 | 1 | 0 | 1 | 52 |
-| last180d | 2026-04-12 | 3 | 99 | 1 | 1 | 3 | 336 |
-| 360d | 2025-10-14 | 4 | 190 | 1 | 20 | 6 | 499 |
-| last720d | 2024-10-19 | 18 | 371 | 1 | 114 | 15 | 1526 |
+| 30d | 2026-09-10 | 1 | 11 | 0 | 0 | 0 | 13 |
+| last60d | 2026-08-11 | 1 | 21 | 1 | 0 | 1 | 23 |
+| 90d | 2026-07-12 | 3 | 48 | 1 | 0 | 1 | 54 |
+| last180d | 2026-04-13 | 4 | 98 | 1 | 1 | 3 | 338 |
+| 360d | 2025-10-15 | 5 | 188 | 1 | 20 | 6 | 501 |
+| last720d | 2024-10-20 | 19 | 371 | 1 | 114 | 15 | 1528 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [gittype-v0.10.2-aarch64-apple-darwin.tar.gz](https://github.com/unhappychoice/gittype/releases/download/v0.10.2/gittype-v0.10.2-aarch64-apple-darwin.tar.gz) | 9.6 MiB | `native/darwin/arm64` |
-| [gittype-v0.10.2-aarch64-unknown-linux-gnu.tar.gz](https://github.com/unhappychoice/gittype/releases/download/v0.10.2/gittype-v0.10.2-aarch64-unknown-linux-gnu.tar.gz) | 10.1 MiB | `native/linux/arm64/glibc` |
-| [gittype-v0.10.2-x86_64-apple-darwin.tar.gz](https://github.com/unhappychoice/gittype/releases/download/v0.10.2/gittype-v0.10.2-x86_64-apple-darwin.tar.gz) | 9.7 MiB | `native/darwin/x64` |
-| [gittype-v0.10.2-x86_64-pc-windows-msvc.zip](https://github.com/unhappychoice/gittype/releases/download/v0.10.2/gittype-v0.10.2-x86_64-pc-windows-msvc.zip) | 9.3 MiB | `native/win/x64` |
-| [gittype-v0.10.2-x86_64-unknown-linux-gnu.tar.gz](https://github.com/unhappychoice/gittype/releases/download/v0.10.2/gittype-v0.10.2-x86_64-unknown-linux-gnu.tar.gz) | 10.1 MiB | `native/linux/x64/glibc` |
+| [gittype-v0.10.3-aarch64-apple-darwin.tar.gz](https://github.com/unhappychoice/gittype/releases/download/v0.10.3/gittype-v0.10.3-aarch64-apple-darwin.tar.gz) | 9.5 MiB | `native/darwin/arm64` |
+| [gittype-v0.10.3-aarch64-unknown-linux-gnu.tar.gz](https://github.com/unhappychoice/gittype/releases/download/v0.10.3/gittype-v0.10.3-aarch64-unknown-linux-gnu.tar.gz) | 10.0 MiB | `native/linux/arm64/glibc` |
+| [gittype-v0.10.3-x86_64-apple-darwin.tar.gz](https://github.com/unhappychoice/gittype/releases/download/v0.10.3/gittype-v0.10.3-x86_64-apple-darwin.tar.gz) | 9.6 MiB | `native/darwin/x64` |
+| [gittype-v0.10.3-x86_64-pc-windows-msvc.zip](https://github.com/unhappychoice/gittype/releases/download/v0.10.3/gittype-v0.10.3-x86_64-pc-windows-msvc.zip) | 9.2 MiB | `native/win/x64` |
+| [gittype-v0.10.3-x86_64-unknown-linux-gnu.tar.gz](https://github.com/unhappychoice/gittype/releases/download/v0.10.3/gittype-v0.10.3-x86_64-unknown-linux-gnu.tar.gz) | 10.0 MiB | `native/linux/x64/glibc` |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for gittype lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261009.yml` · 2026-10-09T07:29:35Z._
+_Snapshot: `data/card/261010.yml` · 2026-10-10T07:00:10Z._
