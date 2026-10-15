@@ -32,27 +32,27 @@ Total: **81,437** lines of code across **641** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.10.3` (2026-10-10)
-- **Last commit**: 2026-10-14
+- **Last commit**: 2026-10-15
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 1,634 · **Forks**: 45 · **Open issues**: 129 · **Contributors**: 8
+- **Stars**: 1,637 · **Forks**: 45 · **Open issues**: 129 · **Contributors**: 8
 
 ## Totals (cumulative)
 
-- **Releases**: 19 · **Merged PRs**: 374 · **Open PRs**: 1 · **Closed issues**: 114 · **Open issues**: 15 · **Commits**: 1534
+- **Releases**: 19 · **Merged PRs**: 375 · **Open PRs**: 1 · **Closed issues**: 114 · **Open issues**: 15 · **Commits**: 1536
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 1 | 11 | 0 | 0 | 0 | 13 |
-| last60d | 2026-08-15 | 1 | 23 | 1 | 0 | 1 | 24 |
-| 90d | 2026-07-16 | 3 | 46 | 1 | 0 | 1 | 52 |
-| last180d | 2026-04-17 | 4 | 99 | 1 | 1 | 3 | 336 |
-| 360d | 2025-10-19 | 5 | 188 | 1 | 18 | 6 | 480 |
-| last720d | 2024-10-24 | 19 | 374 | 1 | 114 | 15 | 1534 |
+| 30d | 2026-09-15 | 1 | 12 | 0 | 0 | 0 | 14 |
+| last60d | 2026-08-16 | 1 | 24 | 1 | 0 | 1 | 25 |
+| 90d | 2026-07-17 | 3 | 47 | 1 | 0 | 1 | 53 |
+| last180d | 2026-04-18 | 4 | 100 | 1 | 1 | 3 | 337 |
+| 360d | 2025-10-20 | 5 | 189 | 1 | 18 | 6 | 481 |
+| last720d | 2024-10-25 | 19 | 375 | 1 | 114 | 15 | 1536 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for gittype lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T06:19:45Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T05:53:59Z._
