@@ -32,27 +32,27 @@ Total: **81,437** lines of code across **641** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.10.3` (2026-10-10)
-- **Last commit**: 2026-10-17
+- **Last commit**: 2026-10-21
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 1,640 · **Forks**: 45 · **Open issues**: 129 · **Contributors**: 8
+- **Stars**: 1,643 · **Forks**: 46 · **Open issues**: 129 · **Contributors**: 8
 
 ## Totals (cumulative)
 
-- **Releases**: 19 · **Merged PRs**: 376 · **Open PRs**: 1 · **Closed issues**: 114 · **Open issues**: 15 · **Commits**: 1538
+- **Releases**: 19 · **Merged PRs**: 377 · **Open PRs**: 1 · **Closed issues**: 114 · **Open issues**: 15 · **Commits**: 1540
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 1 | 12 | 0 | 0 | 0 | 13 |
-| last60d | 2026-08-22 | 1 | 24 | 1 | 0 | 1 | 26 |
-| 90d | 2026-07-23 | 3 | 38 | 1 | 0 | 1 | 42 |
-| last180d | 2026-04-24 | 3 | 94 | 1 | 1 | 3 | 329 |
-| 360d | 2025-10-26 | 5 | 183 | 1 | 9 | 6 | 459 |
-| last720d | 2024-10-31 | 19 | 376 | 1 | 114 | 15 | 1538 |
+| 30d | 2026-09-22 | 1 | 13 | 0 | 0 | 0 | 14 |
+| last60d | 2026-08-23 | 1 | 25 | 1 | 0 | 1 | 27 |
+| 90d | 2026-07-24 | 3 | 39 | 1 | 0 | 1 | 43 |
+| last180d | 2026-04-25 | 3 | 95 | 1 | 1 | 3 | 330 |
+| 360d | 2025-10-27 | 5 | 183 | 1 | 8 | 5 | 460 |
+| last720d | 2024-11-01 | 19 | 377 | 1 | 114 | 15 | 1540 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for gittype lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T06:08:09Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T05:59:48Z._
