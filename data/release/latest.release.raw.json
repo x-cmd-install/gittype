@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 9986622,
       "digest": "sha256:26204d5bdbe06406d0e6f90992ce413afeb7e61440f322cda4ecca1704cefe27",
-      "download_count": 43,
+      "download_count": 45,
       "created_at": "2026-10-10T05:08:29Z",
       "updated_at": "2026-10-10T05:08:30Z",
       "browser_download_url": "https://github.com/unhappychoice/gittype/releases/download/v0.10.3/gittype-v0.10.3-aarch64-apple-darwin.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 10093366,
       "digest": "sha256:32f3dadc8c53f1076700a6c48516a1f31b2b1b5ad6dcd482aeca41c15e0333cb",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-10-10T05:08:42Z",
       "updated_at": "2026-10-10T05:08:43Z",
       "browser_download_url": "https://github.com/unhappychoice/gittype/releases/download/v0.10.3/gittype-v0.10.3-x86_64-apple-darwin.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 9695690,
       "digest": "sha256:53719839d14f9cf7f1329b342b1e2b396ec5cca27c2e97092283e013221a8c85",
-      "download_count": 86,
+      "download_count": 94,
       "created_at": "2026-10-10T05:07:48Z",
       "updated_at": "2026-10-10T05:07:49Z",
       "browser_download_url": "https://github.com/unhappychoice/gittype/releases/download/v0.10.3/gittype-v0.10.3-x86_64-pc-windows-msvc.zip"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 10481983,
       "digest": "sha256:afb28153eaa8a6b48142d5ecc879aeda784a0e4861d21b29afa5b88170a4b710",
-      "download_count": 81,
+      "download_count": 86,
       "created_at": "2026-10-10T05:07:16Z",
       "updated_at": "2026-10-10T05:07:17Z",
       "browser_download_url": "https://github.com/unhappychoice/gittype/releases/download/v0.10.3/gittype-v0.10.3-x86_64-unknown-linux-gnu.tar.gz"
