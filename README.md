@@ -37,22 +37,22 @@ Total: **81,437** lines of code across **641** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,647 · **Forks**: 46 · **Open issues**: 129 · **Contributors**: 8
+- **Stars**: 1,650 · **Forks**: 47 · **Open issues**: 129 · **Contributors**: 8
 
 ## Totals (cumulative)
 
-- **Releases**: 19 · **Merged PRs**: 379 · **Open PRs**: 2 · **Closed issues**: 114 · **Open issues**: 15 · **Commits**: 1544
+- **Releases**: 19 · **Merged PRs**: 379 · **Open PRs**: 3 · **Closed issues**: 114 · **Open issues**: 15 · **Commits**: 1544
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 1 | 13 | 1 | 0 | 0 | 15 |
-| last60d | 2026-08-29 | 1 | 24 | 1 | 0 | 0 | 27 |
-| 90d | 2026-07-30 | 2 | 40 | 2 | 0 | 1 | 44 |
-| last180d | 2026-05-01 | 3 | 94 | 2 | 1 | 3 | 306 |
-| 360d | 2025-11-02 | 5 | 182 | 2 | 6 | 4 | 454 |
-| last720d | 2024-11-07 | 19 | 379 | 2 | 114 | 15 | 1544 |
+| 30d | 2026-09-29 | 1 | 13 | 2 | 0 | 0 | 15 |
+| last60d | 2026-08-30 | 1 | 24 | 2 | 0 | 0 | 27 |
+| 90d | 2026-07-31 | 2 | 40 | 3 | 0 | 1 | 44 |
+| last180d | 2026-05-02 | 3 | 94 | 3 | 1 | 3 | 306 |
+| 360d | 2025-11-03 | 5 | 182 | 3 | 5 | 4 | 454 |
+| last720d | 2024-11-08 | 19 | 379 | 3 | 114 | 15 | 1544 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for gittype lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261028.yml` · 2026-10-28T07:05:57Z._
+_Snapshot: `data/card/261029.yml` · 2026-10-29T07:15:58Z._
