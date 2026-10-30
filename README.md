@@ -32,27 +32,27 @@ Total: **81,437** lines of code across **641** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.10.3` (2026-10-10)
-- **Last commit**: 2026-10-27
+- **Last commit**: 2026-10-30
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 1,650 · **Forks**: 47 · **Open issues**: 129 · **Contributors**: 8
+- **Stars**: 1,649 · **Forks**: 47 · **Open issues**: 129 · **Contributors**: 8
 
 ## Totals (cumulative)
 
-- **Releases**: 19 · **Merged PRs**: 379 · **Open PRs**: 3 · **Closed issues**: 114 · **Open issues**: 15 · **Commits**: 1544
+- **Releases**: 19 · **Merged PRs**: 381 · **Open PRs**: 1 · **Closed issues**: 114 · **Open issues**: 15 · **Commits**: 1549
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 1 | 13 | 2 | 0 | 0 | 15 |
-| last60d | 2026-08-30 | 1 | 24 | 2 | 0 | 0 | 27 |
-| 90d | 2026-07-31 | 2 | 40 | 3 | 0 | 1 | 44 |
-| last180d | 2026-05-02 | 3 | 94 | 3 | 1 | 3 | 306 |
-| 360d | 2025-11-03 | 5 | 182 | 3 | 5 | 4 | 454 |
-| last720d | 2024-11-08 | 19 | 379 | 3 | 114 | 15 | 1544 |
+| 30d | 2026-09-30 | 1 | 15 | 0 | 0 | 0 | 18 |
+| last60d | 2026-08-31 | 1 | 24 | 0 | 0 | 0 | 30 |
+| 90d | 2026-08-01 | 2 | 42 | 1 | 0 | 1 | 47 |
+| last180d | 2026-05-03 | 3 | 96 | 1 | 1 | 3 | 309 |
+| 360d | 2025-11-04 | 5 | 183 | 1 | 5 | 4 | 457 |
+| last720d | 2024-11-09 | 19 | 381 | 1 | 114 | 15 | 1549 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for gittype lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T07:15:58Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T07:16:07Z._
