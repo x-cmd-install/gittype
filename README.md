@@ -31,38 +31,38 @@ Total: **81,437** lines of code across **641** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.10.3` (2026-10-10)
-- **Last commit**: 2026-10-30
+- **Latest**: `v0.10.4` (2026-10-31)
+- **Last commit**: 2026-10-31
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 1,649 · **Forks**: 47 · **Open issues**: 129 · **Contributors**: 8
+- **Stars**: 1,650 · **Forks**: 47 · **Open issues**: 129 · **Contributors**: 8
 
 ## Totals (cumulative)
 
-- **Releases**: 19 · **Merged PRs**: 381 · **Open PRs**: 1 · **Closed issues**: 114 · **Open issues**: 15 · **Commits**: 1549
+- **Releases**: 20 · **Merged PRs**: 381 · **Open PRs**: 1 · **Closed issues**: 114 · **Open issues**: 15 · **Commits**: 1551
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 1 | 15 | 0 | 0 | 0 | 18 |
-| last60d | 2026-08-31 | 1 | 24 | 0 | 0 | 0 | 30 |
-| 90d | 2026-08-01 | 2 | 42 | 1 | 0 | 1 | 47 |
-| last180d | 2026-05-03 | 3 | 96 | 1 | 1 | 3 | 309 |
-| 360d | 2025-11-04 | 5 | 183 | 1 | 5 | 4 | 457 |
-| last720d | 2024-11-09 | 19 | 381 | 1 | 114 | 15 | 1549 |
+| 30d | 2026-10-01 | 2 | 15 | 0 | 0 | 0 | 20 |
+| last60d | 2026-09-01 | 2 | 24 | 0 | 0 | 0 | 32 |
+| 90d | 2026-08-02 | 3 | 42 | 1 | 0 | 1 | 49 |
+| last180d | 2026-05-04 | 4 | 95 | 1 | 1 | 3 | 311 |
+| 360d | 2025-11-05 | 6 | 183 | 1 | 5 | 4 | 459 |
+| last720d | 2024-11-10 | 20 | 381 | 1 | 114 | 15 | 1551 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [gittype-v0.10.3-aarch64-apple-darwin.tar.gz](https://github.com/unhappychoice/gittype/releases/download/v0.10.3/gittype-v0.10.3-aarch64-apple-darwin.tar.gz) | 9.5 MiB | `native/darwin/arm64` |
-| [gittype-v0.10.3-aarch64-unknown-linux-gnu.tar.gz](https://github.com/unhappychoice/gittype/releases/download/v0.10.3/gittype-v0.10.3-aarch64-unknown-linux-gnu.tar.gz) | 10.0 MiB | `native/linux/arm64/glibc` |
-| [gittype-v0.10.3-x86_64-apple-darwin.tar.gz](https://github.com/unhappychoice/gittype/releases/download/v0.10.3/gittype-v0.10.3-x86_64-apple-darwin.tar.gz) | 9.6 MiB | `native/darwin/x64` |
-| [gittype-v0.10.3-x86_64-pc-windows-msvc.zip](https://github.com/unhappychoice/gittype/releases/download/v0.10.3/gittype-v0.10.3-x86_64-pc-windows-msvc.zip) | 9.2 MiB | `native/win/x64` |
-| [gittype-v0.10.3-x86_64-unknown-linux-gnu.tar.gz](https://github.com/unhappychoice/gittype/releases/download/v0.10.3/gittype-v0.10.3-x86_64-unknown-linux-gnu.tar.gz) | 10.0 MiB | `native/linux/x64/glibc` |
+| [gittype-v0.10.4-aarch64-apple-darwin.tar.gz](https://github.com/unhappychoice/gittype/releases/download/v0.10.4/gittype-v0.10.4-aarch64-apple-darwin.tar.gz) | 9.6 MiB | `native/darwin/arm64` |
+| [gittype-v0.10.4-aarch64-unknown-linux-gnu.tar.gz](https://github.com/unhappychoice/gittype/releases/download/v0.10.4/gittype-v0.10.4-aarch64-unknown-linux-gnu.tar.gz) | 10.0 MiB | `native/linux/arm64/glibc` |
+| [gittype-v0.10.4-x86_64-apple-darwin.tar.gz](https://github.com/unhappychoice/gittype/releases/download/v0.10.4/gittype-v0.10.4-x86_64-apple-darwin.tar.gz) | 9.7 MiB | `native/darwin/x64` |
+| [gittype-v0.10.4-x86_64-pc-windows-msvc.zip](https://github.com/unhappychoice/gittype/releases/download/v0.10.4/gittype-v0.10.4-x86_64-pc-windows-msvc.zip) | 9.3 MiB | `native/win/x64` |
+| [gittype-v0.10.4-x86_64-unknown-linux-gnu.tar.gz](https://github.com/unhappychoice/gittype/releases/download/v0.10.4/gittype-v0.10.4-x86_64-unknown-linux-gnu.tar.gz) | 10.0 MiB | `native/linux/x64/glibc` |
 
 ## Distribution status
 
@@ -82,4 +82,4 @@ Install metadata for gittype lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T07:16:07Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T07:06:54Z._
