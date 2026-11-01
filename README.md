@@ -37,7 +37,7 @@ Total: **81,437** lines of code across **641** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,650 · **Forks**: 47 · **Open issues**: 129 · **Contributors**: 8
+- **Stars**: 1,651 · **Forks**: 47 · **Open issues**: 129 · **Contributors**: 8
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **81,437** lines of code across **641** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 2 | 15 | 0 | 0 | 0 | 20 |
-| last60d | 2026-09-01 | 2 | 24 | 0 | 0 | 0 | 32 |
-| 90d | 2026-08-02 | 3 | 42 | 1 | 0 | 1 | 49 |
-| last180d | 2026-05-04 | 4 | 95 | 1 | 1 | 3 | 311 |
-| 360d | 2025-11-05 | 6 | 183 | 1 | 5 | 4 | 459 |
-| last720d | 2024-11-10 | 20 | 381 | 1 | 114 | 15 | 1551 |
+| 30d | 2026-10-02 | 2 | 15 | 0 | 0 | 0 | 15 |
+| last60d | 2026-09-02 | 2 | 24 | 0 | 0 | 0 | 27 |
+| 90d | 2026-08-03 | 3 | 41 | 1 | 0 | 1 | 43 |
+| last180d | 2026-05-05 | 4 | 95 | 1 | 1 | 3 | 254 |
+| 360d | 2025-11-06 | 6 | 183 | 1 | 5 | 4 | 452 |
+| last720d | 2024-11-11 | 20 | 381 | 1 | 114 | 15 | 1551 |
 
 ## Release assets
 
@@ -66,12 +66,12 @@ Total: **81,437** lines of code across **641** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **7** distros on [repology.org](https://repology.org/project/gittype). **3** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
+Reported by **7** distros on [repology.org](https://repology.org/project/gittype). **2** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `0.10.3` | ✅ latest |
-| Nix unstable | `0.10.3` | ✅ latest |
+| Homebrew | `0.10.4` | ✅ latest |
+| Nix unstable | `0.10.3` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -82,4 +82,4 @@ Install metadata for gittype lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T07:06:54Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T07:31:44Z._
