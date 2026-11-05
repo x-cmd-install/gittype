@@ -47,12 +47,12 @@ Total: **81,437** lines of code across **641** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 2 | 17 | 0 | 0 | 0 | 18 |
-| last60d | 2026-09-05 | 2 | 26 | 0 | 0 | 0 | 30 |
-| 90d | 2026-08-06 | 2 | 41 | 1 | 0 | 1 | 46 |
-| last180d | 2026-05-08 | 4 | 96 | 1 | 1 | 3 | 257 |
-| 360d | 2025-11-09 | 6 | 186 | 1 | 5 | 4 | 455 |
-| last720d | 2024-11-14 | 20 | 384 | 1 | 114 | 15 | 1557 |
+| 30d | 2026-10-06 | 2 | 14 | 0 | 0 | 0 | 18 |
+| last60d | 2026-09-06 | 2 | 26 | 0 | 0 | 0 | 30 |
+| 90d | 2026-08-07 | 2 | 41 | 1 | 0 | 1 | 46 |
+| last180d | 2026-05-09 | 4 | 96 | 1 | 1 | 3 | 257 |
+| 360d | 2025-11-10 | 6 | 186 | 1 | 5 | 4 | 455 |
+| last720d | 2024-11-15 | 20 | 384 | 1 | 114 | 15 | 1557 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for gittype lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T07:51:40Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T08:16:14Z._
