@@ -32,27 +32,27 @@ x install gittype
 ## 发布
 
 - **最新版本**: `v0.10.4` (2026-10-31)
-- **最近提交**: 2026-11-04
+- **最近提交**: 2026-11-06
 - **Release 含资产**: 5 个
 
 ## 流行度
 
-- **Star**: 1,657 · **Fork**: 47 · **开放 issue**: 129 · **贡献者**: 8
+- **Star**: 1,659 · **Fork**: 47 · **开放 issue**: 129 · **贡献者**: 8
 
 ## 累计统计
 
-- **发布数**: 20 · **已合并 PR**: 384 · **开放 PR**: 1 · **已关闭 issue**: 114 · **开放 issue**: 15 · **提交数**: 1557
+- **发布数**: 20 · **已合并 PR**: 385 · **开放 PR**: 1 · **已关闭 issue**: 114 · **开放 issue**: 15 · **提交数**: 1559
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 2 | 14 | 0 | 0 | 0 | 18 |
-| last60d | 2026-09-06 | 2 | 26 | 0 | 0 | 0 | 30 |
-| 90d | 2026-08-07 | 2 | 41 | 1 | 0 | 1 | 46 |
-| last180d | 2026-05-09 | 4 | 96 | 1 | 1 | 3 | 257 |
-| 360d | 2025-11-10 | 6 | 186 | 1 | 5 | 4 | 455 |
-| last720d | 2024-11-15 | 20 | 384 | 1 | 114 | 15 | 1557 |
+| 30d | 2026-10-07 | 2 | 14 | 0 | 0 | 0 | 19 |
+| last60d | 2026-09-07 | 2 | 26 | 0 | 0 | 0 | 31 |
+| 90d | 2026-08-08 | 2 | 42 | 1 | 0 | 1 | 47 |
+| last180d | 2026-05-10 | 4 | 97 | 1 | 1 | 3 | 258 |
+| 360d | 2025-11-11 | 6 | 187 | 1 | 5 | 4 | 456 |
+| last720d | 2024-11-16 | 20 | 385 | 1 | 114 | 15 | 1559 |
 
 ## Release 资产
 
@@ -64,15 +64,6 @@ x install gittype
 | [gittype-v0.10.4-x86_64-pc-windows-msvc.zip](https://github.com/unhappychoice/gittype/releases/download/v0.10.4/gittype-v0.10.4-x86_64-pc-windows-msvc.zip) | 9.3 MiB | `native/win/x64` |
 | [gittype-v0.10.4-x86_64-unknown-linux-gnu.tar.gz](https://github.com/unhappychoice/gittype/releases/download/v0.10.4/gittype-v0.10.4-x86_64-unknown-linux-gnu.tar.gz) | 10.0 MiB | `native/linux/x64/glibc` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/gittype) 上共有 **7** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**4** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Homebrew | `0.10.4` | ✅ latest |
-| Nix unstable | `0.10.3` | ⚠️ outdated |
-
 ## 改进这些数据
 
 gittype 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `gittype` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -82,4 +73,4 @@ gittype 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261105.yml` · 2026-11-05T08:16:14Z._
+_数据快照: `data/card/261106.yml` · 2026-11-06T08:13:21Z._
