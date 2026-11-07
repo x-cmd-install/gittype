@@ -37,7 +37,7 @@ Total: **81,437** lines of code across **641** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,659 · **Forks**: 47 · **Open issues**: 129 · **Contributors**: 8
+- **Stars**: 1,662 · **Forks**: 47 · **Open issues**: 129 · **Contributors**: 8
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **81,437** lines of code across **641** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 2 | 14 | 0 | 0 | 0 | 19 |
-| last60d | 2026-09-07 | 2 | 26 | 0 | 0 | 0 | 31 |
-| 90d | 2026-08-08 | 2 | 42 | 1 | 0 | 1 | 47 |
-| last180d | 2026-05-10 | 4 | 97 | 1 | 1 | 3 | 258 |
-| 360d | 2025-11-11 | 6 | 187 | 1 | 5 | 4 | 456 |
-| last720d | 2024-11-16 | 20 | 385 | 1 | 114 | 15 | 1559 |
+| 30d | 2026-10-08 | 2 | 14 | 0 | 0 | 0 | 19 |
+| last60d | 2026-09-08 | 2 | 26 | 0 | 0 | 0 | 31 |
+| 90d | 2026-08-09 | 2 | 42 | 1 | 0 | 1 | 47 |
+| last180d | 2026-05-11 | 4 | 97 | 1 | 1 | 3 | 258 |
+| 360d | 2025-11-12 | 6 | 187 | 1 | 5 | 4 | 456 |
+| last720d | 2024-11-17 | 20 | 385 | 1 | 114 | 15 | 1559 |
 
 ## Release assets
 
@@ -64,6 +64,15 @@ Total: **81,437** lines of code across **641** files in the top 5 languages.
 | [gittype-v0.10.4-x86_64-pc-windows-msvc.zip](https://github.com/unhappychoice/gittype/releases/download/v0.10.4/gittype-v0.10.4-x86_64-pc-windows-msvc.zip) | 9.3 MiB | `native/win/x64` |
 | [gittype-v0.10.4-x86_64-unknown-linux-gnu.tar.gz](https://github.com/unhappychoice/gittype/releases/download/v0.10.4/gittype-v0.10.4-x86_64-unknown-linux-gnu.tar.gz) | 10.0 MiB | `native/linux/x64/glibc` |
 
+## Distribution status
+
+Reported by **7** distros on [repology.org](https://repology.org/project/gittype). **2** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `0.10.4` | ✅ latest |
+| Nix unstable | `0.10.3` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for gittype lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `gittype` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -73,4 +82,4 @@ Install metadata for gittype lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T08:13:21Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T07:25:15Z._
