@@ -32,27 +32,27 @@ Total: **81,437** lines of code across **641** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.10.4` (2026-10-31)
-- **Last commit**: 2026-11-09
+- **Last commit**: 2026-11-11
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 1,661 · **Forks**: 47 · **Open issues**: 129 · **Contributors**: 8
+- **Stars**: 1,662 · **Forks**: 47 · **Open issues**: 129 · **Contributors**: 8
 
 ## Totals (cumulative)
 
-- **Releases**: 20 · **Merged PRs**: 386 · **Open PRs**: 1 · **Closed issues**: 114 · **Open issues**: 15 · **Commits**: 1561
+- **Releases**: 20 · **Merged PRs**: 388 · **Open PRs**: 1 · **Closed issues**: 114 · **Open issues**: 15 · **Commits**: 1565
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 1 | 15 | 0 | 0 | 0 | 14 |
-| last60d | 2026-09-11 | 2 | 26 | 0 | 0 | 0 | 28 |
-| 90d | 2026-08-12 | 2 | 35 | 1 | 0 | 1 | 40 |
-| last180d | 2026-05-14 | 4 | 92 | 1 | 1 | 3 | 102 |
-| 360d | 2025-11-15 | 6 | 188 | 1 | 5 | 4 | 454 |
-| last720d | 2024-11-20 | 20 | 386 | 1 | 114 | 15 | 1561 |
+| 30d | 2026-10-12 | 1 | 17 | 0 | 0 | 0 | 16 |
+| last60d | 2026-09-12 | 2 | 28 | 0 | 0 | 0 | 30 |
+| 90d | 2026-08-13 | 2 | 37 | 1 | 0 | 1 | 42 |
+| last180d | 2026-05-15 | 4 | 94 | 1 | 1 | 3 | 104 |
+| 360d | 2025-11-16 | 6 | 190 | 1 | 5 | 4 | 456 |
+| last720d | 2024-11-21 | 20 | 388 | 1 | 114 | 15 | 1565 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for gittype lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T09:02:43Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T07:32:32Z._
