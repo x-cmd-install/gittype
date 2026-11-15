@@ -31,8 +31,8 @@ Total: **81,437** lines of code across **641** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.10.4` (2026-10-31)
-- **Last commit**: 2026-11-11
+- **Latest**: `v0.10.5` (2026-11-14)
+- **Last commit**: 2026-11-14
 - **Assets in release**: 5
 
 ## Popularity
@@ -41,28 +41,28 @@ Total: **81,437** lines of code across **641** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 20 · **Merged PRs**: 388 · **Open PRs**: 3 · **Closed issues**: 114 · **Open issues**: 15 · **Commits**: 1565
+- **Releases**: 21 · **Merged PRs**: 390 · **Open PRs**: 1 · **Closed issues**: 114 · **Open issues**: 15 · **Commits**: 1572
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 1 | 13 | 2 | 0 | 0 | 16 |
-| last60d | 2026-09-15 | 2 | 25 | 2 | 0 | 0 | 30 |
-| 90d | 2026-08-16 | 2 | 37 | 3 | 0 | 1 | 42 |
-| last180d | 2026-05-18 | 4 | 94 | 3 | 1 | 3 | 104 |
-| 360d | 2025-11-19 | 6 | 188 | 3 | 5 | 4 | 456 |
-| last720d | 2024-11-24 | 20 | 388 | 3 | 114 | 15 | 1565 |
+| 30d | 2026-10-16 | 2 | 14 | 0 | 0 | 0 | 18 |
+| last60d | 2026-09-16 | 3 | 27 | 0 | 0 | 0 | 33 |
+| 90d | 2026-08-17 | 3 | 39 | 1 | 0 | 1 | 45 |
+| last180d | 2026-05-19 | 5 | 96 | 1 | 1 | 3 | 104 |
+| 360d | 2025-11-20 | 7 | 188 | 1 | 5 | 4 | 457 |
+| last720d | 2024-11-25 | 21 | 390 | 1 | 114 | 15 | 1572 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [gittype-v0.10.4-aarch64-apple-darwin.tar.gz](https://github.com/unhappychoice/gittype/releases/download/v0.10.4/gittype-v0.10.4-aarch64-apple-darwin.tar.gz) | 9.6 MiB | `native/darwin/arm64` |
-| [gittype-v0.10.4-aarch64-unknown-linux-gnu.tar.gz](https://github.com/unhappychoice/gittype/releases/download/v0.10.4/gittype-v0.10.4-aarch64-unknown-linux-gnu.tar.gz) | 10.0 MiB | `native/linux/arm64/glibc` |
-| [gittype-v0.10.4-x86_64-apple-darwin.tar.gz](https://github.com/unhappychoice/gittype/releases/download/v0.10.4/gittype-v0.10.4-x86_64-apple-darwin.tar.gz) | 9.7 MiB | `native/darwin/x64` |
-| [gittype-v0.10.4-x86_64-pc-windows-msvc.zip](https://github.com/unhappychoice/gittype/releases/download/v0.10.4/gittype-v0.10.4-x86_64-pc-windows-msvc.zip) | 9.3 MiB | `native/win/x64` |
-| [gittype-v0.10.4-x86_64-unknown-linux-gnu.tar.gz](https://github.com/unhappychoice/gittype/releases/download/v0.10.4/gittype-v0.10.4-x86_64-unknown-linux-gnu.tar.gz) | 10.0 MiB | `native/linux/x64/glibc` |
+| [gittype-v0.10.5-aarch64-apple-darwin.tar.gz](https://github.com/unhappychoice/gittype/releases/download/v0.10.5/gittype-v0.10.5-aarch64-apple-darwin.tar.gz) | 9.6 MiB | `native/darwin/arm64` |
+| [gittype-v0.10.5-aarch64-unknown-linux-gnu.tar.gz](https://github.com/unhappychoice/gittype/releases/download/v0.10.5/gittype-v0.10.5-aarch64-unknown-linux-gnu.tar.gz) | 10.2 MiB | `native/linux/arm64/glibc` |
+| [gittype-v0.10.5-x86_64-apple-darwin.tar.gz](https://github.com/unhappychoice/gittype/releases/download/v0.10.5/gittype-v0.10.5-x86_64-apple-darwin.tar.gz) | 9.7 MiB | `native/darwin/x64` |
+| [gittype-v0.10.5-x86_64-pc-windows-msvc.zip](https://github.com/unhappychoice/gittype/releases/download/v0.10.5/gittype-v0.10.5-x86_64-pc-windows-msvc.zip) | 9.3 MiB | `native/win/x64` |
+| [gittype-v0.10.5-x86_64-unknown-linux-gnu.tar.gz](https://github.com/unhappychoice/gittype/releases/download/v0.10.5/gittype-v0.10.5-x86_64-unknown-linux-gnu.tar.gz) | 10.3 MiB | `native/linux/x64/glibc` |
 
 ## Distribution status
 
@@ -70,7 +70,7 @@ Reported by **7** distros on [repology.org](https://repology.org/project/gittype
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `0.10.4` | ✅ latest |
+| Homebrew | `0.10.5` | ✅ latest |
 | Nix unstable | `0.10.3` | ⚠️ outdated |
 
 ## Improve this data
@@ -82,4 +82,4 @@ Install metadata for gittype lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T08:33:56Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T08:15:32Z._

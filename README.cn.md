@@ -31,8 +31,8 @@ x install gittype
 
 ## 发布
 
-- **最新版本**: `v0.10.4` (2026-10-31)
-- **最近提交**: 2026-11-11
+- **最新版本**: `v0.10.5` (2026-11-14)
+- **最近提交**: 2026-11-14
 - **Release 含资产**: 5 个
 
 ## 流行度
@@ -41,28 +41,28 @@ x install gittype
 
 ## 累计统计
 
-- **发布数**: 20 · **已合并 PR**: 388 · **开放 PR**: 3 · **已关闭 issue**: 114 · **开放 issue**: 15 · **提交数**: 1565
+- **发布数**: 21 · **已合并 PR**: 390 · **开放 PR**: 1 · **已关闭 issue**: 114 · **开放 issue**: 15 · **提交数**: 1572
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 1 | 13 | 2 | 0 | 0 | 16 |
-| last60d | 2026-09-15 | 2 | 25 | 2 | 0 | 0 | 30 |
-| 90d | 2026-08-16 | 2 | 37 | 3 | 0 | 1 | 42 |
-| last180d | 2026-05-18 | 4 | 94 | 3 | 1 | 3 | 104 |
-| 360d | 2025-11-19 | 6 | 188 | 3 | 5 | 4 | 456 |
-| last720d | 2024-11-24 | 20 | 388 | 3 | 114 | 15 | 1565 |
+| 30d | 2026-10-16 | 2 | 14 | 0 | 0 | 0 | 18 |
+| last60d | 2026-09-16 | 3 | 27 | 0 | 0 | 0 | 33 |
+| 90d | 2026-08-17 | 3 | 39 | 1 | 0 | 1 | 45 |
+| last180d | 2026-05-19 | 5 | 96 | 1 | 1 | 3 | 104 |
+| 360d | 2025-11-20 | 7 | 188 | 1 | 5 | 4 | 457 |
+| last720d | 2024-11-25 | 21 | 390 | 1 | 114 | 15 | 1572 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [gittype-v0.10.4-aarch64-apple-darwin.tar.gz](https://github.com/unhappychoice/gittype/releases/download/v0.10.4/gittype-v0.10.4-aarch64-apple-darwin.tar.gz) | 9.6 MiB | `native/darwin/arm64` |
-| [gittype-v0.10.4-aarch64-unknown-linux-gnu.tar.gz](https://github.com/unhappychoice/gittype/releases/download/v0.10.4/gittype-v0.10.4-aarch64-unknown-linux-gnu.tar.gz) | 10.0 MiB | `native/linux/arm64/glibc` |
-| [gittype-v0.10.4-x86_64-apple-darwin.tar.gz](https://github.com/unhappychoice/gittype/releases/download/v0.10.4/gittype-v0.10.4-x86_64-apple-darwin.tar.gz) | 9.7 MiB | `native/darwin/x64` |
-| [gittype-v0.10.4-x86_64-pc-windows-msvc.zip](https://github.com/unhappychoice/gittype/releases/download/v0.10.4/gittype-v0.10.4-x86_64-pc-windows-msvc.zip) | 9.3 MiB | `native/win/x64` |
-| [gittype-v0.10.4-x86_64-unknown-linux-gnu.tar.gz](https://github.com/unhappychoice/gittype/releases/download/v0.10.4/gittype-v0.10.4-x86_64-unknown-linux-gnu.tar.gz) | 10.0 MiB | `native/linux/x64/glibc` |
+| [gittype-v0.10.5-aarch64-apple-darwin.tar.gz](https://github.com/unhappychoice/gittype/releases/download/v0.10.5/gittype-v0.10.5-aarch64-apple-darwin.tar.gz) | 9.6 MiB | `native/darwin/arm64` |
+| [gittype-v0.10.5-aarch64-unknown-linux-gnu.tar.gz](https://github.com/unhappychoice/gittype/releases/download/v0.10.5/gittype-v0.10.5-aarch64-unknown-linux-gnu.tar.gz) | 10.2 MiB | `native/linux/arm64/glibc` |
+| [gittype-v0.10.5-x86_64-apple-darwin.tar.gz](https://github.com/unhappychoice/gittype/releases/download/v0.10.5/gittype-v0.10.5-x86_64-apple-darwin.tar.gz) | 9.7 MiB | `native/darwin/x64` |
+| [gittype-v0.10.5-x86_64-pc-windows-msvc.zip](https://github.com/unhappychoice/gittype/releases/download/v0.10.5/gittype-v0.10.5-x86_64-pc-windows-msvc.zip) | 9.3 MiB | `native/win/x64` |
+| [gittype-v0.10.5-x86_64-unknown-linux-gnu.tar.gz](https://github.com/unhappychoice/gittype/releases/download/v0.10.5/gittype-v0.10.5-x86_64-unknown-linux-gnu.tar.gz) | 10.3 MiB | `native/linux/x64/glibc` |
 
 ## 发行版状态
 
@@ -70,7 +70,7 @@ x install gittype
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Homebrew | `0.10.4` | ✅ latest |
+| Homebrew | `0.10.5` | ✅ latest |
 | Nix unstable | `0.10.3` | ⚠️ outdated |
 
 ## 改进这些数据
@@ -82,4 +82,4 @@ gittype 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261114.yml` · 2026-11-14T08:33:56Z._
+_数据快照: `data/card/261115.yml` · 2026-11-15T08:15:32Z._
