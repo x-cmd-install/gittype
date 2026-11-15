@@ -1,22 +1,3 @@
-- repo: homebrew
-  srcname: gittype
-  visiblename: gittype
-  version: 0.10.4
-  origversion: null
-  status: newest
-  summary: CLI code-typing game that turns your source code into typing challenges
-- repo: aur
-  srcname: gittype-bin
-  binname: gittype-bin
-  visiblename: gittype-bin
-  version: 0.10.4
-  origversion: 0.10.4-1
-  status: newest
-  summary: A CLI code-typing game that turns your source code into typing challenges
-  maintainers:
-    - dominiquini@aur
-  licenses:
-    - MIT
 - repo: aur
   srcname: gittype
   binname: gittype
@@ -29,6 +10,25 @@
     - orhun@aur
   licenses:
     - MIT
+- repo: aur
+  srcname: gittype-bin
+  binname: gittype-bin
+  visiblename: gittype-bin
+  version: 0.10.5
+  origversion: 0.10.5-1
+  status: newest
+  summary: A CLI code-typing game that turns your source code into typing challenges
+  maintainers:
+    - dominiquini@aur
+  licenses:
+    - MIT
+- repo: homebrew
+  srcname: gittype
+  visiblename: gittype
+  version: 0.10.5
+  origversion: null
+  status: newest
+  summary: CLI code-typing game that turns your source code into typing challenges
 - repo: homebrew
   srcname: gittype
   visiblename: gittype
