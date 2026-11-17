@@ -37,22 +37,22 @@ Total: **81,437** lines of code across **641** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,663 · **Forks**: 47 · **Open issues**: 129 · **Contributors**: 8
+- **Stars**: 1,665 · **Forks**: 47 · **Open issues**: 129 · **Contributors**: 8
 
 ## Totals (cumulative)
 
-- **Releases**: 21 · **Merged PRs**: 390 · **Open PRs**: 1 · **Closed issues**: 114 · **Open issues**: 15 · **Commits**: 1572
+- **Releases**: 21 · **Merged PRs**: 390 · **Open PRs**: 3 · **Closed issues**: 114 · **Open issues**: 15 · **Commits**: 1572
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 2 | 14 | 0 | 0 | 0 | 18 |
-| last60d | 2026-09-17 | 3 | 27 | 0 | 0 | 0 | 33 |
-| 90d | 2026-08-18 | 3 | 38 | 1 | 0 | 1 | 45 |
-| last180d | 2026-05-20 | 5 | 95 | 1 | 1 | 3 | 104 |
-| 360d | 2025-11-21 | 7 | 187 | 1 | 5 | 4 | 457 |
-| last720d | 2024-11-26 | 21 | 390 | 1 | 114 | 15 | 1572 |
+| 30d | 2026-10-18 | 2 | 14 | 2 | 0 | 0 | 18 |
+| last60d | 2026-09-18 | 3 | 26 | 2 | 0 | 0 | 33 |
+| 90d | 2026-08-19 | 3 | 38 | 3 | 0 | 1 | 45 |
+| last180d | 2026-05-21 | 5 | 95 | 3 | 1 | 3 | 104 |
+| 360d | 2025-11-22 | 7 | 187 | 3 | 5 | 4 | 457 |
+| last720d | 2024-11-27 | 21 | 390 | 3 | 114 | 15 | 1572 |
 
 ## Release assets
 
@@ -64,15 +64,6 @@ Total: **81,437** lines of code across **641** files in the top 5 languages.
 | [gittype-v0.10.5-x86_64-pc-windows-msvc.zip](https://github.com/unhappychoice/gittype/releases/download/v0.10.5/gittype-v0.10.5-x86_64-pc-windows-msvc.zip) | 9.3 MiB | `native/win/x64` |
 | [gittype-v0.10.5-x86_64-unknown-linux-gnu.tar.gz](https://github.com/unhappychoice/gittype/releases/download/v0.10.5/gittype-v0.10.5-x86_64-unknown-linux-gnu.tar.gz) | 10.3 MiB | `native/linux/x64/glibc` |
 
-## Distribution status
-
-Reported by **7** distros on [repology.org](https://repology.org/project/gittype). **2** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.10.5` | ✅ latest |
-| Nix unstable | `0.10.3` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for gittype lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `gittype` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -82,4 +73,4 @@ Install metadata for gittype lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T08:50:19Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T11:02:34Z._
