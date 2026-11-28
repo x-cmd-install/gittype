@@ -47,12 +47,12 @@ Total: **81,437** lines of code across **641** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 2 | 24 | 0 | 0 | 1 | 28 |
-| last60d | 2026-09-28 | 3 | 39 | 0 | 0 | 1 | 46 |
-| 90d | 2026-08-29 | 3 | 50 | 0 | 0 | 1 | 58 |
-| last180d | 2026-05-31 | 5 | 103 | 1 | 0 | 3 | 113 |
-| 360d | 2025-12-02 | 7 | 198 | 1 | 5 | 5 | 467 |
-| last720d | 2024-12-07 | 21 | 405 | 1 | 114 | 16 | 1602 |
+| 30d | 2026-10-29 | 2 | 24 | 0 | 0 | 1 | 28 |
+| last60d | 2026-09-29 | 3 | 39 | 0 | 0 | 1 | 46 |
+| 90d | 2026-08-30 | 3 | 50 | 0 | 0 | 1 | 58 |
+| last180d | 2026-06-01 | 5 | 102 | 1 | 0 | 3 | 113 |
+| 360d | 2025-12-03 | 7 | 197 | 1 | 5 | 5 | 467 |
+| last720d | 2024-12-08 | 21 | 405 | 1 | 114 | 16 | 1602 |
 
 ## Release assets
 
@@ -64,6 +64,15 @@ Total: **81,437** lines of code across **641** files in the top 5 languages.
 | [gittype-v0.10.5-x86_64-pc-windows-msvc.zip](https://github.com/unhappychoice/gittype/releases/download/v0.10.5/gittype-v0.10.5-x86_64-pc-windows-msvc.zip) | 9.3 MiB | `native/win/x64` |
 | [gittype-v0.10.5-x86_64-unknown-linux-gnu.tar.gz](https://github.com/unhappychoice/gittype/releases/download/v0.10.5/gittype-v0.10.5-x86_64-unknown-linux-gnu.tar.gz) | 10.3 MiB | `native/linux/x64/glibc` |
 
+## Distribution status
+
+Reported by **7** distros on [repology.org](https://repology.org/project/gittype). **2** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `0.10.5` | ✅ latest |
+| Nix unstable | `0.10.3` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for gittype lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `gittype` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -73,4 +82,4 @@ Install metadata for gittype lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T09:24:37Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T09:04:19Z._
